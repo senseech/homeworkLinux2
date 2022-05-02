@@ -56,7 +56,7 @@ arch
 
 cat /proc/cpuinfo | grep 'model name'
 
-?
+cat /proc/meminfo | grep 'Inact'
 
 ============================================================================================
 
